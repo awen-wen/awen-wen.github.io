@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2a006f8c","path":"/basis/basis1/test1.html","title":"1. 什么是前端","lang":"en-US","frontmatter":{"title":"1. 什么是前端"},"headers":[],"git":{"updatedTime":1701442804000,"contributors":[{"name":"awen-wen","email":"73326544+awen-wen@users.noreply.github.com","commits":1}]},"filePathRelative":"basis/basis1/test1.md"}');export{e as data};
